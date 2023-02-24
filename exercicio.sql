@@ -1,3 +1,5 @@
+/*projeto atualizado 21:41*/
+
 select *from aplicacao;
 select *from cliente;
 select *from consultorinvestimento;
